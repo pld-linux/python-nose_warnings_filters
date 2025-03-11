@@ -8,7 +8,7 @@ Summary:	Allow to inject warning filters during nosetest
 Summary(pl.UTF-8):	Możliwość wstrzyknięcia filtrów ostrzeżeń podczas nosetestów
 Name:		python-nose_warnings_filters
 Version:	0.1.5
-Release:	8
+Release:	9
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/nose-warnings-filters/
